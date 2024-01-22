@@ -1,4 +1,4 @@
-# DATA ANALYSIS USING COFFEE DASHBOARD
+# DATA ANALYSIS USING COFFEE SALES DATASET
 
 ## Introduction
 This project showcases the creation of dynamic and interactive sales dashboards using both Excel and Tableau, leveraging the strengths of each tool to analyze coffee sales data.
